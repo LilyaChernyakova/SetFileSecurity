@@ -1,0 +1,6 @@
+pswd
+ggs
+*test*
+*key*
+?key*
+111fkdf.txt
